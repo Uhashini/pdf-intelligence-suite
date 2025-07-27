@@ -15,60 +15,60 @@
   "extracted_sections": [
     {
       "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packi",
+      "section_title": "Planning a trip to the South of France requires thoughtful preparation to ensure",
       "importance_rank": 1,
       "page_number": 1
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "\u2022",
+      "section_title": "Packing for a trip to the South of France involves considering the season, plann",
       "importance_rank": 2,
-      "page_number": 8
+      "page_number": 9
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "\u2022",
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "The South of France, with its stunning coastline, picturesque villages, and vibr",
       "importance_rank": 3,
-      "page_number": 6
+      "page_number": 1
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "\u2022",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "The South of France, known for its stunning landscapes, rich cultural heritage, ",
       "importance_rank": 4,
-      "page_number": 4
+      "page_number": 1
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "section_title": "\u2022",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "The South of France, with its picturesque landscapes, charming villages, and vib",
       "importance_rank": 5,
-      "page_number": 4
+      "page_number": 1
     }
   ],
   "subsection_analysis": [
     {
       "document": "South of France - Tips and Tricks.pdf",
       "page_number": 1,
-      "refined_text": "The Ultimate South of France Travel Companion: Your Comprehensive Guide to Packing, Planning, and Exploring"
+      "refined_text": "Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip."
     },
     {
       "document": "South of France - Tips and Tricks.pdf",
-      "page_number": 8,
-      "refined_text": "\u2022 Pack a Day Bag:  Bring a small day bag for daily excursions."
+      "page_number": 9,
+      "refined_text": "Packing for a trip to the South of France involves considering the season, planned activities, and the needs of both adults and children. By following this comprehensive guide and incorporating the tips and tricks provided, you'll be well-prepared for a comfortable and enjoyable trip. Remember to pack light, versatile clothing, and essential items to make the most of your travel experience. Bon voyage!"
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "page_number": 6,
-      "refined_text": "\u2022 Snacks:  Bring a variety of snacks for travel and outings."
+      "document": "South of France - Things to Do.pdf",
+      "page_number": 1,
+      "refined_text": "The South of France, with its stunning coastline, picturesque villages, and vibrant cities, o\ufb00ers a wealth of activities and experiences for travelers. Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone. This guide will take you through a variety of activities and must-see attractions to help you plan an unforgettable trip."
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "page_number": 4,
-      "refined_text": "\u2022 Books and Entertainment:  A book, e-reader, or tablet for entertainment during travel."
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "page_number": 1,
+      "refined_text": "The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region o\ufb00ers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip."
     },
     {
-      "document": "South of France - Tips and Tricks.pdf",
-      "page_number": 4,
-      "refined_text": "\u2022 Makeup:  Pack essentials in a travel-sized makeup bag."
+      "document": "South of France - Traditions and Culture.pdf",
+      "page_number": 1,
+      "refined_text": "The South of France, with its picturesque landscapes, charming villages, and vibrant cities, is not only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This region, known for its rich history and diverse influences, o\ufb00ers a unique blend of customs, festivals, and local practices that reflect its distinct identity. This guide will take you through the various traditions and cultural aspects of the South of France, providing a deep understanding of what makes this region so special."
     }
   ]
 }
