@@ -23,60 +23,60 @@
   "extracted_sections": [
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "\u2022",
+      "section_title": "\u2022 Flat forms : These do  not have interactive fields",
       "importance_rank": 1,
       "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "An  interactive  form contains fields that you can select or fill in.",
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "\u2022 Simplified mode for multiple signers This mode provides simplified authoring w",
       "importance_rank": 2,
-      "page_number": 8
+      "page_number": 5
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "3.   Enter your name, organization, and email address to create your profile.",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "AI Assistant quickly gets answers to your questions based on your documents in a",
       "importance_rank": 3,
-      "page_number": 28
+      "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Administer AI Assistant for enterprises",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "\u2022 When you share your documents, textual prompts, and the generated responses wi",
       "importance_rank": 4,
-      "page_number": 16
+      "page_number": 5
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "\u2022",
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "- Improved comprehension:  You can better understand complex PDF documents becau",
       "importance_rank": 5,
-      "page_number": 14
+      "page_number": 3
     }
   ],
   "subsection_analysis": [
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
       "page_number": 2,
-      "refined_text": "\u2022 Interactive forms : These contain fields that you can select and fill in."
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "page_number": 8,
-      "refined_text": "An  interactive  form contains fields that you can select or fill in."
+      "refined_text": "\u2022 Flat forms : These do  not have interactive fields. It could be a paper form or PDF that hasn\u2019t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required."
     },
     {
       "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "page_number": 28,
-      "refined_text": "3.   Enter your name, organization, and email address to create your profile."
+      "page_number": 5,
+      "refined_text": "\u2022 Simplified mode for multiple signers This mode provides simplified authoring with the capability of assigning fields to multiple signers. When you select a signer from the right pane and add fields in the form, the fields are assigned to the signer. That means those fields will be available to the signer for filling the information and signing the form."
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "page_number": 16,
-      "refined_text": "Administer AI Assistant for enterprises"
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "refined_text": "AI Assistant quickly gets answers to your questions based on your documents in a comprehensive and informative way. It can analyze multiple documents to uncover similarities, differences, and key patterns. With AI Assistant, you can make targeted requests, such as highlighting the differences between PDF contracts. It links to text and data table sources within the document. It also suggests follow-up questions for you based on the primary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more accurate and clear answers to your queries based on more citations. It can extract information accurately from tables and complex documents. Generative summary automatically provides an outline with headings and summaries to highlight key points in the document. The feature generates key insights that help you easily comprehend the PDF content. For a speedier response, it processes PDF content in chunks and simultaneously streams summaries. You can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop on both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google"
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "page_number": 14,
-      "refined_text": "\u2022 Is limited to the most common types of fields:"
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "refined_text": "\u2022 When you share your documents, textual prompts, and the generated responses with us when providing feedback, we take steps to filter out personal information by applying data masking procedures to this content (i.e., replacing personal information with predefined categories using Named Entity Recognition, e.g., replacing \u201cJohn Smith\u201d with \u201cPERSON\u201d) prior to using the content for product improvement."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 3,
+      "refined_text": "- Improved comprehension:  You can better understand complex PDF documents because the features provide insights and more context around the content. - Enhanced productivity : Work across multiple PDFs and documents in various formats, including Teams and Zoom meeting transcripts, streamlining your workflow and saving time for higher-priority tasks. - Impactful content : You can use the content suggestions that the features generate for impactful emails, presentations, meeting notes, and more. Turn off generative AI features The generative AI features in Acrobat and Acrobat Reader are turned on by default. However, you can choose to turn them off, if necessary. If you're an admin, you can revoke access to generative AI features for your team or org by contacting Adobe Customer Care. User Guidelines"
     }
   ]
 }
