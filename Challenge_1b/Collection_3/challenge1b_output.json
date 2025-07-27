@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped",
+      "importance_rank": 1,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o   Slice tomatoes and mozzarella.",
+      "importance_rank": 2,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "o   Arrange meats, cheeses, olives, and vegetables on a platter.",
+      "importance_rank": 3,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "through.",
+      "importance_rank": 4,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7",
+      "importance_rank": 5,
+      "page_number": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 13,
+      "refined_text": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 12,
+      "refined_text": "o   Slice tomatoes and mozzarella. o   Arrange on a plate, alternating slices. o   Sprinkle with chopped basil, olive oil, balsamic glaze, and salt. o   Serve immediately. Carrot Salad"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 3,
+      "refined_text": "o   Arrange meats, cheeses, olives, and vegetables on a platter. o   Serve with breadsticks. Arancini"
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 14,
+      "refined_text": "through. o   Slice and serve with pita bread and toppings. Skordalia"
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 5,
+      "refined_text": "\uf0b7 Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions:"
+    }
+  ]
+}
