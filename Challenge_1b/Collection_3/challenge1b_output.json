@@ -16,61 +16,61 @@
   },
   "extracted_sections": [
     {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "section_title": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 1 pound ground beef \uf0b7 1 small onion, diced \uf0b7 2 cloves garlic, minced \uf0b7 1 carro",
       "importance_rank": 1,
-      "page_number": 13
-    },
-    {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "section_title": "o   Slice tomatoes and mozzarella.",
-      "importance_rank": 2,
-      "page_number": 12
-    },
-    {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "section_title": "o   Arrange meats, cheeses, olives, and vegetables on a platter.",
-      "importance_rank": 3,
       "page_number": 3
     },
     {
-      "document": "Dinner Ideas - Sides_4.pdf",
-      "section_title": "through.",
-      "importance_rank": 4,
-      "page_number": 14
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "\uf0b7 1 pound boneless chicken thighs, cubed \uf0b7 1 cup plain yogurt \uf0b7 1 tablespoon lem",
+      "importance_rank": 2,
+      "page_number": 4
     },
     {
       "document": "Dinner Ideas - Mains_1.pdf",
-      "section_title": "\uf0b7",
-      "importance_rank": 5,
+      "section_title": "\uf0b7 Preheat oven to 375\u00b0F (190\u00b0C)",
+      "importance_rank": 3,
       "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "\uf0b7 In a large skillet, melt butter over medium heat",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "\uf0b7 In a pot, bring water to a boil and stir in grits",
+      "importance_rank": 5,
+      "page_number": 2
     }
   ],
   "subsection_analysis": [
     {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "page_number": 13,
-      "refined_text": "o   Mix ground pork, chopped shrimp, diced mushrooms, julienned carrots, chopped"
-    },
-    {
-      "document": "Dinner Ideas - Sides_1.pdf",
-      "page_number": 12,
-      "refined_text": "o   Slice tomatoes and mozzarella. o   Arrange on a plate, alternating slices. o   Sprinkle with chopped basil, olive oil, balsamic glaze, and salt. o   Serve immediately. Carrot Salad"
-    },
-    {
-      "document": "Dinner Ideas - Sides_1.pdf",
+      "document": "Dinner Ideas - Mains_1.pdf",
       "page_number": 3,
-      "refined_text": "o   Arrange meats, cheeses, olives, and vegetables on a platter. o   Serve with breadsticks. Arancini"
+      "refined_text": "\uf0b7 1 pound ground beef \uf0b7 1 small onion, diced \uf0b7 2 cloves garlic, minced \uf0b7 1 carrot, grated \uf0b7 1 celery stalk, diced \uf0b7 1 can (28 ounces) crushed tomatoes \uf0b7 1/4 cup tomato paste \uf0b7 1/2 cup red wine (optional) \uf0b7 1 teaspoon dried oregano \uf0b7 1 teaspoon dried basil \uf0b7 Salt and pepper to taste \uf0b7 Spaghetti for serving \uf0b7 Grated Parmesan cheese for garnish Instructions:"
     },
     {
-      "document": "Dinner Ideas - Sides_4.pdf",
-      "page_number": 14,
-      "refined_text": "through. o   Slice and serve with pita bread and toppings. Skordalia"
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7 1 pound boneless chicken thighs, cubed \uf0b7 1 cup plain yogurt \uf0b7 1 tablespoon lemon juice \uf0b7 2 cloves garlic, minced \uf0b7 1 teaspoon grated ginger \uf0b7 1 teaspoon garam masala \uf0b7 1 teaspoon turmeric \uf0b7 1 teaspoon cumin \uf0b7 1 can (14.5 ounces) tomato puree \uf0b7 1/2 cup heavy cream \uf0b7 2 tablespoons butter \uf0b7 Salt and pepper to taste \uf0b7 Chopped cilantro for garnish \uf0b7 Cooked rice or naan for serving Instructions:"
     },
     {
       "document": "Dinner Ideas - Mains_1.pdf",
       "page_number": 5,
-      "refined_text": "\uf0b7 Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions:"
+      "refined_text": "\uf0b7 Preheat oven to 375\u00b0F (190\u00b0C). \uf0b7 In a skillet, cook ground beef, diced onion, and minced garlic until browned. \uf0b7 Stir in marinara sauce and simmer for 10 minutes. \uf0b7 In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano. \uf0b7 Spread a thin layer of meat sauce in a baking dish. \uf0b7 Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 of the shredded mozzarella cheese. \uf0b7 Repeat layers twice more. \uf0b7 Cover with foil and bake for 25 minutes. \uf0b7 Remove foil and bake for an additional 25 minutes until cheese is melted and bubbly. \uf0b7 Let stand for 10 minutes before serving."
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "page_number": 2,
+      "refined_text": "\uf0b7 In a large skillet, melt butter over medium heat. \uf0b7 Add diced onion and minced garlic, saut\u00e9 until translucent. \uf0b7 Add sliced beef and cook until browned. \uf0b7 Stir in mushrooms and cook until tender. \uf0b7 Sprinkle flour over the mixture and stir to combine. \uf0b7 Gradually add beef broth, stirring constantly until the sauce thickens. \uf0b7 Stir in sour cream and paprika, season with salt and pepper. \uf0b7 Simmer for a few minutes until heated through. \uf0b7 Serve over egg noodles or rice."
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 2,
+      "refined_text": "\uf0b7 In a pot, bring water to a boil and stir in grits. \uf0b7 Reduce heat and simmer until thickened, then stir in shredded cheddar cheese and butter. \uf0b7 In a skillet, cook chopped bacon until crispy, then set aside. \uf0b7 In the same skillet, saut\u00e9 diced onion and minced garlic until softened. \uf0b7 Add shrimp and cook until pink and opaque. \uf0b7 Stir in cooked bacon and sliced green onions. \uf0b7 Serve shrimp mixture over grits."
     }
   ]
 }
