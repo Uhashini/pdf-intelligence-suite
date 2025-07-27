@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance."
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "\u2022",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "An  interactive  form contains fields that you can select or fill in.",
+      "importance_rank": 2,
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "3.   Enter your name, organization, and email address to create your profile.",
+      "importance_rank": 3,
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Administer AI Assistant for enterprises",
+      "importance_rank": 4,
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "\u2022",
+      "importance_rank": 5,
+      "page_number": 14
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "refined_text": "\u2022 Interactive forms : These contain fields that you can select and fill in."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "refined_text": "An  interactive  form contains fields that you can select or fill in."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 28,
+      "refined_text": "3.   Enter your name, organization, and email address to create your profile."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 16,
+      "refined_text": "Administer AI Assistant for enterprises"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "refined_text": "\u2022 Is limited to the most common types of fields:"
+    }
+  ]
+}
